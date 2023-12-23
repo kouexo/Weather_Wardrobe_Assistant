@@ -1,0 +1,2 @@
+# Weather_Wardrobe_Assistant
+OpenAI APIを用いたコーディネートデバイス
